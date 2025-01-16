@@ -17,6 +17,10 @@ const App = () => {
       logo: "https://example.com/foodpanda-logo.png",
       name: "FoodPanda",
     },
+    amazon: {
+      logo: "https://example.com/amazon-logo.png",
+      name: "Amazon",
+    },
   };
 
   const [orders, setOrders] = useState([]);
